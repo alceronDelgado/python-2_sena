@@ -9,4 +9,4 @@
 
 ## Cuadernos
 
-+ [Comenzando con pandas.]("https://colab.research.google.com/github/francomanca93/analisis-de-datos/blob/master/1-Comenzando-con-pandas/1_Configurando_Google.ipynb")
++ [Comenzando con pandas.](https://colab.research.google.com/github/francomanca93/analisis-de-datos/blob/master/1-Comenzando-con-pandas/1_Configurando_Google.ipynb)
