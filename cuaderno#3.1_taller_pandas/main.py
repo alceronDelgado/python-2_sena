@@ -4,7 +4,7 @@ import numpy as np
 #1- Aca se crea el dataframe directamente con read_csv
 #df_datos = pd.read_csv('bestsellers_with_categories.csv')
 
-df_datos = pd.read_csv('src/bestsellerswithcategories.csv')
+df_datos = pd.read_csv('bestsellers_with_categories.csv')
 
 #2- Muestra primeros 5 registros
 #print(df_datos.head())
