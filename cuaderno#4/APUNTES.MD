@@ -4,18 +4,15 @@
 
 SEGÚN EL TIPO DE GRÁFICO SE DEBE DE APLICA SI ES EJE X O Y.
 
-
 ## Funciones lamba
 
-funciones máginas que nos permite agrupar 
+funciones máginas que nos permite agrupar
 
 Cuando tenemos un archivo modificado por comas entones los decimales debe de ir por puntos y no por comas, no es un error como tal sino una ambiguedad.
 
-# TODO: Buscar sobre seaborn 
+## Seaborn
 
-# Seaborn
-
-seaborn = es una alternativa de matplotlib 
+seaborn = es una alternativa de matplotlib
 
 ---
 
@@ -31,16 +28,14 @@ Podemos instalar seaborn con matplotlib ya que algunas veces podemos acceder a c
 
 Las gráficas no sirven para todos los escenarios
 
-
 ## Crear gráficos básicos
 
 ```PYTHON
 
 
 ```
- 
-**Cada gráfica tiene su respectiva utilidad**
 
+C**ada gráfica tiene su respectiva utilidad**
 
 ### Gráficos de dispersión
 
@@ -48,14 +43,13 @@ tiene que ver co el promedio, que tan alejado esta del promedio
 
 cargamos los ejes con 2 listas,
 
-
 ### Gráfico de histograma
 
 Sirve para visualizar el proceso de un elemento o un evento como encuesta o algo, de una tendencia, hacía donde va.
 
-no se le pasa valores de x o y 
+no se le pasa valores de x o y
 
-### Gráfico de barras apiladas.
+### Gráfico de barras apiladas
 
 acá podemos implementar numpy.
 
@@ -97,7 +91,6 @@ plt.show()
 
 **El valor de python** viene desde estadistica.
 
-
 ### Gráfico de violín
 
 aca podemos importar seaborn, hace que sea un poco más detallado el gráfico, habla a traves de distribución de probabilidad.
@@ -132,13 +125,11 @@ SIRVE PARA MOSTRAR PORCENTAJES DE UN TOTAL.
 
 TODO: buscar sobre gráfico de caja boxplot
 
-
 ### matplot
 
 plt.anotate = sirve para colocar anotaciones sobre el gráfico
 
 podemmos re ajustar la flecha y todo lo demás.
-
 
 ### Gráfico de paleto
 
@@ -150,8 +141,6 @@ es una ley para detectar problemas en costo
 ### Gráfico de error
 
 indica el grado de error de un proceso, un error... cuesta dinero.
-
-### Gráfico de error
 
 para usar este gráfco se debe usar la librería de networkx
 
