@@ -65,7 +65,7 @@ serie[[0,4,2]]
 ## Personalizar indices
 
 ```PYTHON
-# El index lo que hace es definir lo datos 
+# El index lo que hace es definir lo datos
 serie = pd.Series([10,9,8,7], index = ['a','b','c','d','w'])
 
 ```
@@ -90,7 +90,7 @@ Serie['e':'z']
 
 ## Definir diccionario como series
 
-llamo la función series y mandamos por parametro el diccionario, cuando pasamos esto lo que pasa es que mandamos hace que la clave (CO,MX,AR) sean como los títulos de una tabla de excel.
+llamo la función series y mandamos por parámetro el diccionario, cuando pasamos esto lo que pasa es que mandamos hace que la clave (CO,MX,AR) sean como los títulos de una tabla de excel.
 
 ```PYTHON
 pd.Series(dict_data, index=['CO', 'MX', 'PE'])
@@ -121,7 +121,7 @@ serie.isnull().any() #La salida debe ser siempre TRUE, significa que todos los d
 
 PARA LA PRÓXIMA CLASE VAMOS A TRABAJAR ARCHIVOS DE EXCEL
 
-Datos unidimencionales = una dimensión, datos de una columna
+Datos unidimensionales = una dimensión, datos de una columna
 
 ## PROMEDIO A UNA CANTIDAD DE DATOS
 
@@ -131,24 +131,21 @@ Teniendo una serie, le colocamos la sentencia mean()
 
 #Notas de la clase con promedio
 Series([5.7,8.5,9.1,5.5,8.2,9.0,10,7.0,7.7,9.9],index=["Juan","Jenifer","David","Pablo","Armando","Magdalena","Francesca","Rosmery","Vicente","Martin"].mean())
-
-#Valor máximo
-Series([5.7,8.5,9.1,5.5,8.2,9.0,10,7.0,7.7,9.9],index=["Juan","Jenifer","David","Pablo","Armando","Magdalena","Francesca","Rosmery","Vicente","Martin"].max())
-#Valor mínimo
-Series([5.7,8.5,9.1,5.5,8.2,9.0,10,7.0,7.7,9.9],index=["Juan","Jenifer","David","Pablo","Armando","Magdalena","Francesca","Rosmery","Vicente","Martin"].min())
-
 ```
 
-TODO: POR REVISAR [DOCUMENTACIÓN PANDAS](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.get.html)
+```PYTHON
+#Valor máximo
+Series([5.7,8.5,9.1,5.5,8.2,9.0,10,7.0,7.7,9.9],index=["Juan","Jenifer","David","Pablo","Armando","Magdalena","Francesca","Rosmery","Vicente","Martin"].max())
+```
 
-TODO: Buscar diferencia entre serie y DataFrame En pandas.
-TODO: BUSCAR ISO 25000, 2500N
-TODO: Buscar sobre metodologías de scrum y canvas
-TODO: Buscar sobre como hacer apis
+```PYTHON
+#Valor mínimo
+Series([5.7,8.5,9.1,5.5,8.2,9.0,10,7.0,7.7,9.9],index=["Juan","Jenifer","David","Pablo","Armando","Magdalena","Francesca","Rosmery","Vicente","Martin"].min())
+```
 
 ## Rangos de series
 
-usando la función range podemos determinar un rango de funciones, recordemos que un range en python es excluyende.
+usando la función range podemos determinar un rango de funciones, recordemos que un range en python es excluyente.
 
 ```PYTHON
 

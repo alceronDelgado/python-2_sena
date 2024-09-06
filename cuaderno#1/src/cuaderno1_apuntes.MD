@@ -4,7 +4,7 @@ Apuntes python PATH SENA 2
 
 ---
 
-## Análitica de datos o ciencia de datos
+## Analítica de datos o ciencia de datos
 
 `Las listas, tuplas, Colecciones y conjuntos en general son considerado COLECCIONES.`
 
@@ -28,10 +28,10 @@ Conjuntos{
 
 Data frame y data set son diferentes, son completamente diferentes
 
-Elemmentos de dos dimensiones data frame, es el principio de las colecciones.
-Permite manejar volumenes amplios de datos, pero de 2 dimenciones
+Elementos de dos dimensiones data frame, es el principio de las colecciones.
+Permite manejar volúmenes amplios de datos, pero de 2 dimensiones
 
-`Data Set` = maneja largo, por ancho y por altura. Lo podemos usar para cconectarnos a una base de datos relacional o no relacional.
+`Data Set` = maneja largo, por ancho y por altura. Lo podemos usar para conectarnos a una base de datos relacional o no relacional.
 
 ---
 
@@ -39,11 +39,11 @@ Permite manejar volumenes amplios de datos, pero de 2 dimenciones
 
 Estructura de datos bidimensional
 Etiquetas = a que se refiere?
-Flexbilidad = puede manejar datos restantes, y manipular la información.
+Flexibilidad = puede manejar datos restantes, y manipular la información.
 
 ## DataSet
 
-Pueden unidimensionales(lista de valores) o multidimensionales(tabla con varias columnas y filas)
+Pueden unidimensionales(lista de valores) o multidimensional(tabla con varias columnas y filas)
 
 CSV = Comma-separated values
 JSON = Archivo ordenado estructurado.
@@ -54,7 +54,7 @@ Con el dataSet cargamos la información al dataframe para poder trabajar con eso
 
 ## NUMPY
 
-Con numpy si implementamos datos de tipo string e int no marca un error pero no es recomendable, nos muestra un dtype, significa que hasta cierto punto numpy si te recibe los datos independientemenete de su tipo.
+Con numpy si implementamos datos de tipo string e int no marca un error pero no es recomendable, nos muestra un dtype, significa que hasta cierto punto numpy si te recibe los datos independientemente de su tipo.
 
 ```python
 dtype='<U21' que es como una advertencia.>'
@@ -72,7 +72,7 @@ arrays = cuando inicializamos un array de derecha a izquierda debemos indicarle 
 np.array([[1,2,3,4],[6,7,8,9]]).shape = (2,4)
 ```
 
-`Las listas deben ser homogenemos, en filas y columnas`
+`Las listas deben ser homogéneos, en filas y columnas`
 
 slicing = cortar una pequeña parte del elemento.
 
@@ -80,11 +80,11 @@ slicing = cortar una pequeña parte del elemento.
 
 En pandas para definir valores exige simetría.
 
-Cuando escribimos la función DataFrame lo primero que hace es definir la simetría de los datos, si la simetría de los datos es homogenea, no tendrá problemas al visualizar los datos.
+Cuando escribimos la función DataFrame lo primero que hace es definir la simetría de los datos, si la simetría de los datos es homogénea, no tendrá problemas al visualizar los datos.
 
 ## describe
 
-me muestra una descripción de los datos del dataframe, este nos muestra un minímo, máximo, etc.
+me muestra una descripción de los datos del dataframe, este nos muestra un mínimo, máximo, etc.
 
 ```python
 df.describe()
@@ -115,9 +115,9 @@ df.values()
 
 ```python
 
-# Si la función no tiene parentesis, significa que no lleva parámetros.
+# Si la función no tiene paréntesis, significa que no lleva parámetros.
 
-df.info() #Muestra promedio de los elementos, máximo, minimo, porcentajes, etc.
+df.info() #Muestra promedio de los elementos, máximo, mínimo, porcentajes, etc.
 print(df)
 df.describe() #Nos muestra los tipos de datos que hay, su dimensión... entre otros
 df.index # Nos muestra en donde se encuentra el elemento
@@ -152,8 +152,9 @@ Usamos la funcion iloc para poder definir o extraer los datos pero que se defina
 df ['Nota3'] > 3 # Extrae los datos con condicionales.
 ```
 
-## TAREA
+## TODO
 
+TODO:
 buscar sobre series en pandas
 Que es indexación
 Y que es selección de datos
