@@ -32,3 +32,5 @@
 7 + [Variables de tipo Texto con pandas](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/03_Variables_tipo_texto.ipynb)
 
 8 + [Concatenación de DataFrames](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/04_Concatenacion_de_DataFrames.ipynb)
+
+9 + [Merge en dataframe](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/05_Merge_de_DataFrames.ipynb)
