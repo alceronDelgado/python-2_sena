@@ -11,16 +11,24 @@
 
 + [Todos los cuadernos](https://colab.research.google.com/github/francomanca93/analisis-de-datos/)
 
-+ [Comenzando con pandas.](https://colab.research.google.com/github/francomanca93/analisis-de-datos/blob/master/1-Comenzando-con-pandas/1_Configurando_Google.ipynb)
+1 + [Comenzando con pandas.](https://colab.research.google.com/github/francomanca93/analisis-de-datos/blob/master/1-Comenzando-con-pandas/1_Configurando_Google.ipynb)
 
-+ [Series.](https://colab.research.google.com/github/francomanca93/analisis-de-datos/blob/comienzo/1-Comenzando-con-pandas/2_Series.ipynb#scrollTo=omaCtxhYsM5n)
+2 + [Series.](https://colab.research.google.com/github/francomanca93/analisis-de-datos/blob/comienzo/1-Comenzando-con-pandas/2_Series.ipynb#scrollTo=omaCtxhYsM5n)
 
-+ [Creando un dataframe](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Creando%20un%20Dataframe.ipynb#scrollTo=oELMAA4nkal8)
+3 + [Creando un dataframe](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Creando%20un%20Dataframe.ipynb#scrollTo=oELMAA4nkal8)
 
-+ [Taller pandas](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Taller%20Pandas2.ipynb)
+3.1 + [Taller pandas](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Taller%20Pandas2.ipynb)
 
 + [Taller pandas resuelto](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Taller%20Pandas%20Resuelto.ipynb#scrollTo=HbNykclqGvk5)
 
-+ [Matplotlib y fundamentos](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Cuaderno_Matplotlib_Fundamentos.ipynb#scrollTo=ycq00CcauoFO)
+4+ [Matplotlib y fundamentos](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Cuaderno_Matplotlib_Fundamentos.ipynb#scrollTo=ycq00CcauoFO)
 
-+ [Taller pandas y Matploidlib](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Taller_Pandas_Matplolib2.ipynb)
+4.1 + [Taller pandas y Matploidlib](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Taller_Pandas_Matplolib2.ipynb)
+
+5 + [Funciones Matemáticas](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/01_Funciones_matem%C3%A1ticas.ipynb)
+
+6 + [Multiples Indices](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/02_Multiples_indices.ipynb#scrollTo=0wJFt6scagOz)
+
+7 + [Variables de tipo Texto con pandas](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/03_Variables_tipo_texto.ipynb)
+
+8 + [Concatenación de DataFrames](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/04_Concatenacion_de_DataFrames.ipynb)
