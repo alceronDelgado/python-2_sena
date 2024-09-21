@@ -6,6 +6,4 @@ Es diferetente de inner o merge
 
 
 TODO: buscar sobre estádistica descriptiva 
-Y ESTÁDISTICA PROBABILISTICA
-
-buscar sobre calculo y estádistica 
+Y ESTÁDISTICA PROBABILISTICA buscar sobre calculo y estádistica 
