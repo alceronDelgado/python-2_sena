@@ -101,3 +101,8 @@ salary = df['Salario']
 #plt.title('Gráfico de Violín')
 #plt.grid(True)
 #plt.show()
+
+# TODO: terminar gráfico de contorno y gráfico de superficie = PUNTO 5 Y 6
+
+"""GRÁFICO DE CONTORNO """ 
+#Objetivo = goles vs salario proposito
