@@ -34,3 +34,9 @@
 8 + [Concatenación de DataFrames](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/04_Concatenacion_de_DataFrames.ipynb)
 
 9 + [Merge en dataframe](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/05_Merge_de_DataFrames.ipynb)
+
+10 + [Series de tiempo](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/10_Series_de_tiempo_y_visualizacioes.ipynb#scrollTo=7L6u6QA5kDzX)
+
+11 + [Evaluacion](cuaderno#11-evaluacion)
+
+11 + [Trabajo en clase Ciencia de datos]([Trabajo en Clase de Python Vs Ciencia de Datos](https://colab.research.google.com/github/edelgado-1975/PandasOk/blob/main/Trabajo%20en%20clase%20Ciencia%20de%20Datos.ipynb#scrollTo=akZPLtdWS9SQ)
